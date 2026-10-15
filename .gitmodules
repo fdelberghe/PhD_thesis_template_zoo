@@ -1,6 +1,3 @@
-[submodule "template_zoo/basnijholt"]
-	path = template_zoo/basnijholt
-	url = git@github.com:basnijholt/thesis.git
 [submodule "la_trobe_thesis_template"]
 	path = la_trobe_thesis_template
 	url = git@github.com:bashimao/ltu-thesis.git
@@ -13,3 +10,6 @@
 [submodule "tufte_thesis"]
 	path = tufte_thesis
 	url = git@github.com:pfasante/phd_thesis.git
+[submodule "basijholt"]
+	path = basijholt
+	url = git@github.com:basnijholt/thesis.git
