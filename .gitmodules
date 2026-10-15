@@ -1,0 +1,15 @@
+[submodule "template_zoo/basnijholt"]
+	path = template_zoo/basnijholt
+	url = git@github.com:basnijholt/thesis.git
+[submodule "la_trobe_thesis_template"]
+	path = la_trobe_thesis_template
+	url = git@github.com:bashimao/ltu-thesis.git
+[submodule "nova_thesis"]
+	path = nova_thesis
+	url = git@github.com:joaomlourenco/novathesis.git
+[submodule "delft_phd_thesis_template"]
+	path = delft_phd_thesis_template
+	url = git@github.com:Inventitech/phd-thesis-template.git
+[submodule "tufte_thesis"]
+	path = tufte_thesis
+	url = git@github.com:pfasante/phd_thesis.git
